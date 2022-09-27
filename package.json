@@ -1,0 +1,16 @@
+{
+  "name": "phz02",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "pg สล็อตเว็บตรง ถอนได้จริง ufa เล่นง่ายได้เงินจริง",
+  "keywords": [
+    "pg สล็อตเว็บตรง",
+    "สล็อตเว็บตรง",
+    "ufa"
+  ],
+  "repository": "https://github.com/Phz168/phz02",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
